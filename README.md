@@ -8,3 +8,4 @@ You are able to crawl the data from the page and input the News title and conten
     
     2. Export File
     
+    ![news_output](/images/news_output.png)
